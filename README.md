@@ -1,1 +1,9 @@
-# JAVA_Application_Swing_GUI_akkis_comuter
+# JAVA_Application_Swing_GUI_akkis_comuter![image](https://user-images.githubusercontent.com/96494631/176911221-79768b8d-807f-4525-a821-f6fae51a2c6d.png)
+![image](https://user-images.githubusercontent.com/96494631/176911250-f20f84e2-0583-447d-847d-c606cb08b223.png)
+![image](https://user-images.githubusercontent.com/96494631/176911297-64cada91-e720-48a8-a094-8b0b5f00ed65.png)
+![image](https://user-images.githubusercontent.com/96494631/176911316-59f776a8-cf9d-413a-bf7e-a73ca865b401.png)
+![image](https://user-images.githubusercontent.com/96494631/176911325-c7a32fa5-001d-4ea1-b5d7-02beec5e844e.png)
+![image](https://user-images.githubusercontent.com/96494631/176911343-89b87f41-86d7-47cb-9b97-464f5737d0f5.png)
+![image](https://user-images.githubusercontent.com/96494631/176911367-0f72cdd2-9ffd-4ff0-b48e-3166d94a0c14.png)
+![image](https://user-images.githubusercontent.com/96494631/176911380-bb7031d0-ee2c-47b5-8d31-f9652f01afcb.png)
+![image](https://user-images.githubusercontent.com/96494631/176911396-3593d7f5-f3e6-4c3e-a630-14a98130aeb1.png)
